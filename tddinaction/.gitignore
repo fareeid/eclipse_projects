@@ -1,5 +1,8 @@
 /target/
 
+#Log Files
+*.log
+
 *.class
 
 # Mobile Tools for Java (J2ME)
