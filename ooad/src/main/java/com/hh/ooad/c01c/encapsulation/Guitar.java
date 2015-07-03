@@ -1,4 +1,4 @@
-package com.hh.ooad.c01.encapsulation;
+package com.hh.ooad.c01c.encapsulation;
 
 public class Guitar {
 

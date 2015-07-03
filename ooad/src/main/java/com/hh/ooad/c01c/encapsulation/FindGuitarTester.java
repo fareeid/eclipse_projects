@@ -1,4 +1,4 @@
-package com.hh.ooad.c01.encapsulation;
+package com.hh.ooad.c01c.encapsulation;
 
 import java.util.Iterator;
 import java.util.List;

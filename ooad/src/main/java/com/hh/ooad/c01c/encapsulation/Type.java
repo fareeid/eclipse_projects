@@ -1,4 +1,4 @@
-package com.hh.ooad.c01.choices;
+package com.hh.ooad.c01c.encapsulation;
 
 public enum Type { 
 

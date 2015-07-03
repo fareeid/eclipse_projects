@@ -1,4 +1,4 @@
-package com.hh.ooad.c01.start;
+package com.hh.ooad.c01a.start;
 
 public class FindGuitarTester {
 

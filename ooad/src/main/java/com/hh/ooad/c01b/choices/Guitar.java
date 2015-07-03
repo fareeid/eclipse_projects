@@ -1,4 +1,4 @@
-package com.hh.ooad.c01.choices;
+package com.hh.ooad.c01b.choices;
 
 public class Guitar {
 
