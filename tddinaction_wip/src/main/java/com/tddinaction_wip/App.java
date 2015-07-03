@@ -1,7 +1,7 @@
 package com.tddinaction_wip;
 
 /**
- * Hello world!
+ * Hello world! what happened
  *
  */
 public class App 
