@@ -1,4 +1,4 @@
-package com.hh.ooad.c02b.finale;
+package com.hh.ooad.c02c.finale;
 
 public class DogDoorSimulator {
 
