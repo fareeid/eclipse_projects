@@ -5,7 +5,7 @@ public class RemoteControlTest {
 		SimpleRemoteControl remote = new SimpleRemoteControl();
 		Light light = new Light();
 		GarageDoor garageDoor = new GarageDoor();
-		remote.setCommand(light::on);
+		remote.setCommand(() -> light.on());
 		remote.buttonWasPressed();
 		remote.setCommand(garageDoor::up);
 		remote.buttonWasPressed();

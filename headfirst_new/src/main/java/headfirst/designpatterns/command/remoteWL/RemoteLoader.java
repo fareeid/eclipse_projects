@@ -15,8 +15,10 @@ public class RemoteLoader {
 		remoteControl.setCommand(1, kitchenLight::on, kitchenLight::off);
 		remoteControl.setCommand(2, ceilingFan::high, ceilingFan::off);
 		
-		Command stereoOnWithCD = () -> { 
-			stereo.on(); stereo.setCD(); stereo.setVolume(11);
+		Command stereoOnWithCD = () -> {
+			stereo.on();
+			stereo.setCD();
+			stereo.setVolume(11);
 		};
 		remoteControl.setCommand(3, stereoOnWithCD, stereo::off);
 		remoteControl.setCommand(4, garageDoor::up, garageDoor::down);
